@@ -1,0 +1,30 @@
+{
+    "algo": "cryptonight-lite",
+    "background": false,
+    "colors": true,
+    "retries": 5,
+    "retry-pause": 5,
+    "donate-level": 0,
+    "syslog": false,
+    "log-file": null,
+    "print-time": 60,
+    "av": 0,
+    "safe": false,
+    "max-cpu-usage": 100,
+    "cpu-priority": 4,
+    "threads": null,
+    "pools": [
+        {
+            "url": "aeon.pool.minergate.com:45690",
+            "user": "sisma12345.dt@gmail.com",
+            "pass": "",
+            "keepalive": true,
+            "nicehash": false
+        }
+    ],
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null
+    }
+}
