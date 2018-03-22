@@ -12,7 +12,7 @@
     "safe": false,
     "max-cpu-usage": 100,
     "cpu-priority": 4,
-    "threads": 2,
+    "threads": 4,
     "pools": [
         {
             "url": "aeon.pool.minergate.com:45690",
